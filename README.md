@@ -10,7 +10,7 @@ I am a passionate software developer with a keen interest in deep learning, arti
 - 🌱 I’m currently learning about the latest advancements in neural networks and AI-driven applications.
 - 👯 I’m looking to collaborate on open-source projects and research in the field of deep learning.
 - 💬 Ask me about deep learning, machine learning, and software development.
-- 📫 How to reach me: [your email or other contact info].
+- 📫 How to reach me: codecraftmens@gmail.com
 - 😄 Pronouns: he/him.
 - ⚡ Fun fact: I am fluent in three languages – English, Hindi, and Urdu.
 
@@ -57,6 +57,8 @@ Created an AI-powered chatbot capable of natural language understanding and cont
 
 - [LinkedIn](https://www.linkedin.com/in/codecraftsmens)
 - [Twitter](https://twitter.com/codecraftsmens)
+- [Telegram Channel](https://t.me/yourtelegramchannel)
+- [Telegram](https://t.me/codecraftmens)
 - [Personal Website/Blog](https://codecraftsmens.com)
 
 ## Latest Blog Posts
